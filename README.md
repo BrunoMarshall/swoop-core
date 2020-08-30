@@ -28,7 +28,7 @@ Usage:
 Example:
 `./scripts/deploy.sh --network testnet`
 
-**Using truffle:***
+**Using truffle:**An
 
 Truffle requires NodeJS v12, otherwise it seems to break.
 The current deployment using Truffle is also currently not working properly - the hmy deployment method is preferable and is also the default deployment method.
