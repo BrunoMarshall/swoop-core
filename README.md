@@ -1,6 +1,7 @@
 # Swoop - a fork of Uniswap V2 for Harmony
 
 Swoop is a fork of Uniswap V2 for Harmony's #Hack9 hackathon.
+The core team are: Seb, Peter Abilla, Gizem, denniswon,  Bruno Marshall, errOr.
 
 This repository contains the smart contracts for the project.
 
